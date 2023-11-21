@@ -1,7 +1,7 @@
 {
   "button": {
     "text": {
-      "S": {
+      "s": {
         "value": {
           "fontFamily": "{fontFamilies.primary}",
           "fontWeight": "{fontWeights.m}",
@@ -10,7 +10,7 @@
         },
         "type": "typography"
       },
-      "M": {
+      "m": {
         "value": {
           "fontFamily": "{fontFamilies.primary}",
           "fontWeight": "{fontWeights.m}",
@@ -197,7 +197,7 @@
   },
   "field": {
     "placeholder": {
-      "S": {
+      "s": {
         "value": {
           "fontFamily": "{fontFamilies.primary}",
           "fontWeight": "{fontWeights.r}",
@@ -206,7 +206,7 @@
         },
         "type": "typography"
       },
-      "M": {
+      "m": {
         "value": {
           "fontFamily": "{fontFamilies.primary}",
           "fontWeight": "{fontWeights.r}",
@@ -215,7 +215,7 @@
         },
         "type": "typography"
       },
-      "L": {
+      "l": {
         "value": {
           "fontFamily": "{fontFamilies.primary}",
           "fontWeight": "{fontWeights.r}",
@@ -304,12 +304,12 @@
   },
   "button-default": {
     "value": {
-      "height": "{button.M}",
-      "itemSpacing": "{S}",
-      "verticalPadding": "{S}",
-      "horizontalPadding": "{M}",
-      "borderRadius": "{radius.XS}",
-      "typography": "{button.text.M}",
+      "height": "{button.m}",
+      "itemSpacing": "{s}",
+      "verticalPadding": "{s}",
+      "horizontalPadding": "{m}",
+      "borderRadius": "{radius.xs}",
+      "typography": "{button.text.m}",
       "fill": "{button.default.fill.state-base}"
     },
     "type": "composition"
@@ -394,7 +394,7 @@
       "type": "typography"
     },
     "title": {
-      "value": "{core.title-M}",
+      "value": "{core.title-m}",
       "type": "typography"
     }
   },
@@ -474,7 +474,7 @@
   },
   "toast": {
     "title": {
-      "value": "{core.title-M}",
+      "value": "{core.title-m}",
       "type": "typography"
     },
     "message": {
@@ -686,7 +686,7 @@
           }
         },
         "text": {
-          "value": "{core.subtitle-M}",
+          "value": "{core.subtitle-m}",
           "type": "typography"
         }
       }
