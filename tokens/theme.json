@@ -806,6 +806,36 @@
           "type": "color"
         }
       }
+    },
+    "sub": {
+      "base": {
+        "fill": {
+          "value": "{palette.blue.600}",
+          "type": "color"
+        },
+        "item": {
+          "value": "{palette.white.1000}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{palette.blue.50}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "fill": {
+          "value": "{palette.blue.700}",
+          "type": "color"
+        },
+        "item": {
+          "value": "{palette.white.1000}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{palette.blue.100}",
+          "type": "color"
+        }
+      }
     }
   },
   "avatar": {
