@@ -530,7 +530,13 @@
       "grid.cell.header.base.item": "S:de3ddfd476186e6005d2a2baf68829d0d586620a,",
       "grid.cell.header.base.border": "S:01f9199d045e7e02708b93b2c3cae206cf2c70a9,",
       "grid.fill": "S:88ca6409e4db48425d096d1f646feba8dc9d5f4f,",
-      "grid.border": "S:725396053de6267ffd565dd65288a621bd91410a,"
+      "grid.border": "S:725396053de6267ffd565dd65288a621bd91410a,",
+      "menu.sub.base.fill": "S:b88f93d116eea00808b6f0a0c6308fe8cf2ed159,",
+      "menu.sub.base.item": "S:8e8ea0d95e544599ab1c97fde5738cdfaf19f383,",
+      "menu.sub.base.border": "S:7e3121740056b46a48698fb409743eeb29c9c715,",
+      "menu.sub.hover.fill": "S:3f9984c69ab77f1834d2a37877250fd9b8153a02,",
+      "menu.sub.hover.item": "S:a8c7dfc70860519823e2cef9e2d52c9d810682e5,",
+      "menu.sub.hover.border": "S:e103bee21d040e3abc34544c2346254e2fa17e0d,"
     },
     "$figmaVariableReferences": {
       "button.default.fill.state-base": "3f7198c79afa04b8f00f6f6a5a5961d95f163534",
